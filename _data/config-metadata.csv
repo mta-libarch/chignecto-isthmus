@@ -8,8 +8,11 @@ location,Location,,,DCTERMS.coverage,contentLocation
 latitude,Latitude,,,,
 longitude,Longitude,,,,
 source,Source,,,,
+related_Publication, Book or Journal Title,,,,
 identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
+callnumber,Call Number,,,,
+collection,Collection,,,,
 language,Language,,,DCTERMS.language,
 rightsstatement,,,,DCTERMS.rights,license
