@@ -18,12 +18,12 @@ source-code: https://github.com/estregger/chignecto-isthmus
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Chignecto Isthmus Database
+title: Chignecto Isthmus Index
 # tagline, a short phrase that will appear throughout the site in the top banner
 tagline: Historical materials indexed by Margaret Fancy
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Chignecto Isthmus Database is an index of historical materials."
+description: "Chignecto Isthmus Index is an index of historical materials."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
 keywords: chignecto isthmus; history; index
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name

@@ -9,7 +9,7 @@ about-featured-image: demo_031
 # set background-position for featured image, "center", "top", "bottom"
 position: bottom
 # major heading to display over featured image
-heading: About the Collection
+heading: About the Index
 # paragraph text below heading in featured image
 sub-heading: 
 # additional padding added to the feature to increase size. Give value in em or px, e.g. "5em".
@@ -17,23 +17,31 @@ padding: 6em
 # Edit the markdown on in this file to describe your collection
 # Look in _includes/feature for options to easily add features to the page
 ---
+## Chignecto Isthmus Index
 
-## About CollectionBuilder CSV
+This index is based on the Chignecto Database, created by Margaret Fancy, Librarian Emerita at Mount Allison University. 
 
-This demo collection features items from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital/), and is build using [CollectionBuilder-CSV](https://github.com/CollectionBuilder/collectionbuilder-csv).
+{% include feature/cloud.html fields="subject" min=125 %}
 
-CollectionBuilder-CSV is a "Stand Alone" template for creating digital collection and exhibit websites using Jekyll, given:
+## The Chignecto Database
 
-- a CSV of collection metadata
-- a folder of images, PDFs, audio, or video files
+The Chignecto Database provides access to historical material on the people and places of the Isthmus of Chignecto held by the Ralph Pickard Bell Library, Mount Allison University, Sackville, N.B.
 
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server.
 
-[CollectionBuilder](https://github.com/CollectionBuilder/) is an set of open source tools for creating digital collection and exhibit websites that are driven by metadata and powered by modern static web technology.
-See [CB Docs](https://collectionbuilder.github.io/cb-docs/) for detailed information.
+Materials indexed include: books, pamphlets, maps, newspapers, journal articles, government publications and images. The major focus at present was on the settlements of Sackville and area, Point de Bute, Port Elgin, Cape Tormentine, the great Tantramar Marsh and Forts Beausejour and Lawrence. 
 
-{% include feature/image.html objectid="demo_001" width="75" %} 
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Most of the indexed items are held in the Winthrop Pickard Bell Collection of Acadiana, a special collection within the Ralph Pickard Bell Library. This is a special collection of over 14,000 volumes on the history and culture of the Maritime Provinces, which is available to the public during Library open hours.
+
+
+Microform material is housed in the Microform Room which is also open during regular Library hours. This is equipped with a microfilm/microfiche reader with a scanning device to digitize microform.
+
+Full text of some of these resources is available through the [Mount Allison Library Digital Collections](https://mta.novanet.ca/discovery/collectionDiscovery?vid=01NOVA_MTA:MTA&inst=01NOVA_MTA)
+
+## Future plans
+
+Future plans for the Chignecto Isthmus Index include:
+- correcting date formatting
+- adding location data
+- connecting to existing full text in Mount Allison Digital Collections
+- digitizing additional material to make the full text available
