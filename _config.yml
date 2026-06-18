@@ -8,11 +8,11 @@
 # URL VARIABLES
 #
 # site domain, full URL to the production location of your collection
-url: https://estregger.github.io
+url: https://mta-libarch
 # path to location on the domain if necessary e.g. /digital/hjccc
 baseurl: /chignecto-isthmus
 # location of code, the full url to your github repository
-source-code: https://github.com/estregger/chignecto-isthmus
+source-code: https://mta-libarch.github.io/chignecto-isthmus/
 
 ##########
 # SITE SETTINGS
@@ -20,12 +20,12 @@ source-code: https://github.com/estregger/chignecto-isthmus
 # title of site appears in banner
 title: Chignecto Isthmus Index
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Historical materials indexed by Margaret Fancy
+tagline: Locating information about people and places
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "Chignecto Isthmus Index is an index of historical materials."
+description: "Chignecto Isthmus Index connects to information sources about the people and places of theTantramar region."
 # keywords, a short list of subjects describing the collection, separated by semicolon, to appear in rich markup
-keywords: chignecto isthmus; history; index
+keywords: chignecto isthmus; history; index; tantramar
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: estregger
 
