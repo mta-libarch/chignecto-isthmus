@@ -21,7 +21,7 @@ padding: 6em
 
 This index is based on the Chignecto Database, created by Margaret Fancy, Librarian Emerita at Mount Allison University. 
 
-{% include feature/cloud.html fields="subject" min=125 %}
+{% include feature/cloud.html fields="subject" min=150 %}
 
 ## The Chignecto Database
 

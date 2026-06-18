@@ -7,7 +7,7 @@ permalink: /subjects.html
 cloud-fields: site.data.theme.subjects-fields
 ---
 
-## Browse Subjects
+## Browse Index Terms
 
-Use this word cloud visualization to browse terms and subjects.
-Word size is determined by frequency and all words link to a corresponding collection search.
+Use this word cloud visualization to browse subjects.
+Word size is determined by frequency and all words link to a corresponding collection search. Terms that appear over 25 times in the index are included in this cloud.
