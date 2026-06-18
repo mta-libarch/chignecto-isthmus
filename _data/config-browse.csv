@@ -3,5 +3,4 @@ date,Date,,,Date Created
 description,,,true,
 creator,Author,,,
 subject,,true
-location,,true,,,Location Depicted
-identifier,,,true,Identifier
+format,Format,,true

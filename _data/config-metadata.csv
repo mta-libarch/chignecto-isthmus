@@ -2,14 +2,15 @@ field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
 creator,Creator,,,DCTERMS.creator,creator
 date,Date Created,,,DCTERMS.date,dateCreated
+related_publication,Source publication,,,,
+volume,Volume,,,,
+page,Page,,,,
+place,Place,,,,
+publisher,Publisher,,,,
+source,Source,,,,
+identifier,Source Identifier,,,,
 description,Description,,,DCTERMS.description,description
 subject,Subjects,true,,DCTERMS.subject,keywords
-location,Location,,,DCTERMS.coverage,contentLocation
-latitude,Latitude,,,,
-longitude,Longitude,,,,
-source,Source,,,,
-related_publication, Book or Journal Title,,,,
-identifier,Source Identifier,,,,
 type,Type,,,DCTERMS.type,
 format,Format,,,,encodingFormat
 call_number,Call Number,,,,

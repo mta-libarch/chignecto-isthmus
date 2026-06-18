@@ -1,6 +1,9 @@
 field,display_name
 title,Title
 date,Date
+related_publication,Source
+volume,Volume
+page,Page
 subject,Subjects
 call_number,Call Number
 collection,Collection
