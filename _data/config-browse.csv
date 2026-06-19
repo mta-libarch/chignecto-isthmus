@@ -1,6 +1,5 @@
 field,display_name,btn,hidden,sort_name,facet_name
 date,Date,,,Date Created
-description,,,true,
-creator,Author,,,
-subject,,true
-format,Format,,true
+fulltext,,,true,,,
+creator,Author,,,,,
+subject,Subject,true,,,,,,

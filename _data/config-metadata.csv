@@ -1,19 +1,20 @@
 field,display_name,browse_link,external_link,dc_map,schema_map
 title,Title,,,DCTERMS.title,headline
-creator,Creator,,,DCTERMS.creator,creator
-date,Date Created,,,DCTERMS.date,dateCreated
-related_publication,Source publication,,,,
-volume,Volume,,,,
-page,Page,,,,
-place,Place,,,,
-publisher,Publisher,,,,
-source,Source,,,,
-identifier,Source Identifier,,,,
-description,Description,,,DCTERMS.description,description
-subject,Subjects,true,,DCTERMS.subject,keywords
-type,Type,,,DCTERMS.type,
-format,Format,,,,encodingFormat
-call_number,Call Number,,,,
-collection,Collection,,,,
-language,Language,,,DCTERMS.language,
+creator,Author,,,DCTERMS.creator,creator
+date,Date,,,DCTERMS.date,dateCreated
+partof_title,Source publication,,,,,
+creator_partof, Author of source publication,,,,,
+volume,Volume,,,,,
+pages,Page,,,,,
+place,Place,,,,,
+publisher,Publisher,,,,,
+source,Source,,,,,
+identifier,Source identifier,,,,,
+fulltext,Description,,,DCTERMS.description,description
+notes,Notes,,,,,
+subject,Index terms,true,,DCTERMS.subject,keywords
+format,Format,,,,,
+call_number,Call Number,,,,,
+collection,Collection,,,,,
+language,Language,,,DCTERMS.language,,
 rightsstatement,,,,DCTERMS.rights,license
